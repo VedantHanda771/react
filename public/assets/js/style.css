@@ -626,7 +626,7 @@ body {
   position: absolute;
   top: 2784px;
   width: 41.875%; /* 603px / 1440px = 41.875% */
-  background: url(../public/assets/images/vector_smart_object_doubl_4.png) no-repeat center 0;
+  background: url(images/vector_smart_object_doubl_4.png) no-repeat center 0;
 }
 .email {
   font-size: 144.3205%; /* 23.09px / 16px = 144.3125% */
@@ -752,7 +752,7 @@ body {
   padding: 26px 0 72px;
   position: relative;
   width: 46.740993%; /* 545px / 1166px = 46.740993% */
-  background: url(../public/assets/images/vector_smart_object_doubl_10.png) no-repeat center 0;
+  background: url(images/vector_smart_object_doubl_10.png) no-repeat center 0;
 }
 .image-2 {
   margin: 0 auto;
@@ -760,7 +760,7 @@ body {
   padding: 128px 0 95px;
   position: relative;
   width: 82.38532%; /* 449px / 545px = 82.38532% */
-  background: url(../public/assets/images/smartphone_place_holder.png) no-repeat center 0;
+  background: url(images/smartphone_place_holder.png) no-repeat center 0;
 }
 .vector-smart-object-double-click-to-edit-13 {
   display: block;
